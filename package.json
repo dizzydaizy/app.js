@@ -22,7 +22,7 @@
     "@octokit/auth-unauthenticated": "^2.0.4",
     "@octokit/core": "^3.4.0",
     "@octokit/oauth-app": "^3.3.2",
-    "@octokit/plugin-paginate-rest": "^2.13.3",
+    "@octokit/plugin-paginate-rest": "^2.13.6",
     "@octokit/types": "^6.13.0",
     "@octokit/webhooks": "^9.0.1"
   },
